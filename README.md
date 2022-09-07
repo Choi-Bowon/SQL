@@ -1,1 +1,1 @@
-# SQL_Study
+# SQL-Study
